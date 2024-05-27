@@ -38,5 +38,6 @@
 - Additionally, it requires access to a Discord bot account with sufficient permissions to perform the necessary actions outlined in the script.
 
 [Click to watch](https://youtu.be/qR-VNF_rl0Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qR-VNF_rl0Q?si=hobe0VAl-DarVoEG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](https://i.ibb.co/bLxfMJ0/Capture-d-cran-2024-05-06-105800.jpg)
